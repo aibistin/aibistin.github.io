@@ -8,3 +8,4 @@ Some of my code and other stuff!
 
 ![Yearly Category Chart](images/yearly_seaborn_chart_for_categories.png)
 
+![Daily Category Chart](images/daily_casualty_chart.png)
