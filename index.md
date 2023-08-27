@@ -7,3 +7,4 @@ Some of my code and other stuff!
 
 
 
+![Daily Category Chart](images/daily_casualty_chart.png)
